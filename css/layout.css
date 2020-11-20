@@ -635,7 +635,7 @@ ul#nav li.current a { color: #11ABB0; }
   100% { width: 100%;  }
 }
 
-@-webkit-keyframes deep {
+@-webkit-keyframes Deep {
   0%   { width: 0px;  }
   100% { width: 85%;  }
 }
