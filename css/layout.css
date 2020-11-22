@@ -593,6 +593,26 @@ ul#nav li.current a { color: #11ABB0; }
   	-moz-animation: English 2s ease;
   	-webkit-animation: English 2s ease;
 }
+.Listening {
+  	width: 70%;
+  	-moz-animation: English 2s ease;
+  	-webkit-animation: English 2s ease;
+}
+.Reading {
+  	width: 70%;
+  	-moz-animation: English 2s ease;
+  	-webkit-animation: English 2s ease;
+}
+.Writing {
+  	width: 70%;
+  	-moz-animation: English 2s ease;
+  	-webkit-animation: English 2s ease;
+}
+.Speaking {
+  	width: 70%;
+  	-moz-animation: English 2s ease;
+  	-webkit-animation: English 2s ease;
+}
 
 .Persian {
   	width: 100%;
@@ -624,8 +644,23 @@ ul#nav li.current a { color: #11ABB0; }
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-
 @-moz-keyframes English {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-moz-keyframes Listening {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-moz-keyframes Reading {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-moz-keyframes Speaking {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-moz-keyframes Writing {
   0%   { width: 0px;  }
   100% { width: 70%;  }
 }
@@ -659,12 +694,26 @@ ul#nav li.current a { color: #11ABB0; }
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-
 @-webkit-keyframes English {
   0%   { width: 0px;  }
   100% { width: 70%;  }
 }
-
+@-webkit-keyframes Links {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes Reading {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes Speaking {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes Writing {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
 @-webkit-keyframes Persian {
   0%   { width: 0px;  }
   100% { width: 100%;  }
