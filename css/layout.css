@@ -377,36 +377,36 @@ ul#nav li.current a { color: #11ABB0; }
 }
 
 
-#Experience {
+#Research_Experience {
    background: #fff;
    overflow: hidden;
 }
 
-#Experience a, #Experience a:visited  { color: #11ABB0; }
-#Experience a:hover, #Experience a:focus { color: #313131; }
+#Research_Experience a, #Research_Experience a:visited  { color: #11ABB0; }
+#Research_Experience a:hover, #Research_Experience a:focus { color: #313131; }
 
-#Experience h1 {
+#Research_Experience h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
 }
-#Experience h1 span {
+#Research_Experience h1 span {
    border-bottom: 3px solid #11ABB0;
    padding-bottom: 6px;
 }
-#Experience h3 {
+#Research_Experience h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
 }
 
-#Experience .header-col { padding-top: 9px; }
-#Experience .main-col { padding-right: 10%; }
+#Research_Experience .header-col { padding-top: 9px; }
+#Research_Experience .main-col { padding-right: 10%; }
 
 .education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
 }
-#Experience .info {
+#Research_Experience .info {
    font: 16px/24px 'librebaskerville-italic', serif;
    color: #6E7881;
    margin-bottom: 18px;
@@ -416,10 +416,59 @@ ul#nav li.current a { color: #11ABB0; }
    margin-right: 5px;
    margin-left: 5px;
 }
-#Experience .date {
+#Research_Experience .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
+
+
+
+
+
+#Teaching_Experience {
+   background: #fff;
+   overflow: hidden;
+}
+
+#Teaching_Experience a, #Teaching_Experience a:visited  { color: #11ABB0; }
+#Teaching_Experience a:hover, #Teaching_Experience a:focus { color: #313131; }
+
+#Teaching_Experience h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#Teaching_Experience h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#Teaching_Experience h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#Teaching_Experience .header-col { padding-top: 9px; }
+#Teaching_Experience .main-col { padding-right: 10%; }
+
+.education, .work {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #E8E8E8;
+}
+#Teaching_Experience .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#resume .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#Teaching_Experience .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+}
+
 
 
 #Projects {
