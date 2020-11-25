@@ -617,7 +617,7 @@ ul#nav li.current a { color: #11ABB0; }
   	-webkit-animation: Vision 2s ease;
 }
 .Web {
-  	width: 50%;
+  	width: 60%;
   	-moz-animation: Web 2s ease;
   	-webkit-animation: Web 2s ease;
 }
@@ -627,7 +627,7 @@ ul#nav li.current a { color: #11ABB0; }
   	-webkit-animation: C 2s ease;
 }
 .Java {
-  	width: 50%;
+  	width: 60%;
   	-moz-animation: Java 2s ease;
   	-webkit-animation: Java 2s ease;
 }
@@ -679,7 +679,7 @@ ul#nav li.current a { color: #11ABB0; }
 }
 @-moz-keyframes Web {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 60%;  }
 }
 @-moz-keyframes C {
   0%   { width: 0px;  }
@@ -687,7 +687,7 @@ ul#nav li.current a { color: #11ABB0; }
 }
 @-moz-keyframes Java {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 60%;  }
 }
 @-moz-keyframes Git {
   0%   { width: 0px;  }
@@ -729,7 +729,7 @@ ul#nav li.current a { color: #11ABB0; }
 }
 @-webkit-keyframes Web {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 60%;  }
 }
 @-webkit-keyframes C {
   0%   { width: 0px;  }
@@ -737,7 +737,7 @@ ul#nav li.current a { color: #11ABB0; }
 }
 @-webkit-keyframes Java {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 60%;  }
 }
 @-webkit-keyframes Git {
   0%   { width: 0px;  }
