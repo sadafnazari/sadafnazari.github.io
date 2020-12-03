@@ -621,6 +621,11 @@ ul#nav li.current a { color: #11ABB0; }
   	-moz-animation: Web 2s ease;
   	-webkit-animation: Web 2s ease;
 }
+.Softwere {
+  	width: 60%;
+  	-moz-animation: Softwere 2s ease;
+  	-webkit-animation: Softwere 2s ease;
+}
 .C {
   	width: 90%;
   	-moz-animation: C 2s ease;
@@ -681,6 +686,10 @@ ul#nav li.current a { color: #11ABB0; }
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
+@-moz-keyframes Softwere {
+  0%   { width: 0px;  }
+  100% { width: 60%;  }
+}
 @-moz-keyframes C {
   0%   { width: 0px;  }
   100% { width: 90%;  }
@@ -728,6 +737,9 @@ ul#nav li.current a { color: #11ABB0; }
   100% { width: 80%;  }
 }
 @-webkit-keyframes Web {
+  0%   { width: 0px;  }
+  100% { width: 60%;  }
+}@-webkit-keyframes Softwere {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
