@@ -643,29 +643,29 @@ ul#nav li.current a { color: #11ABB0; }
 }
 
 .English {
-  	width: 70%;
+  	width: 83%;
   	-moz-animation: English 2s ease;
   	-webkit-animation: English 2s ease;
 }
 .Listening {
-  	width: 70%;
-  	-moz-animation: English 2s ease;
-  	-webkit-animation: English 2s ease;
+  	width: 88%;
+  	-moz-animation: Listening 2s ease;
+  	-webkit-animation: Listening 2s ease;
 }
 .Reading {
-  	width: 70%;
-  	-moz-animation: English 2s ease;
-  	-webkit-animation: English 2s ease;
+  	width: 94%;
+  	-moz-animation: Reading 2s ease;
+  	-webkit-animation: Reading 2s ease;
 }
 .Writing {
-  	width: 70%;
-  	-moz-animation: English 2s ease;
-  	-webkit-animation: English 2s ease;
+  	width: 77%;
+  	-moz-animation: Writing 2s ease;
+  	-webkit-animation: Writing 2s ease;
 }
 .Speaking {
-  	width: 70%;
-  	-moz-animation: English 2s ease;
-  	-webkit-animation: English 2s ease;
+  	width: 77%;
+  	-moz-animation: Speaking 2s ease;
+  	-webkit-animation: Speaking 2s ease;
 }
 
 .Persian {
